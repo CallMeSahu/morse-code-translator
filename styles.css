@@ -25,19 +25,12 @@ body{
     padding-left: 0.5rem;
 }
 
-.main{    
-    margin: auto;
-    width: 1200px;    
-}
 
 .container{
     /* border: solid 1px; */
     text-align: center;
-    margin: 4px 1px;
-    padding: 10px;
-    width: 49.5%;
-    box-sizing: border-box;
-    display: inline-block;  
+    margin: auto;
+    padding: 10px;     
 }
 
 .container button{
@@ -55,7 +48,7 @@ body{
 .text-area{
     border: solid black;
     height: 8vh;
-    width: 70%;
+    width: 40%;
     margin: 1rem 0rem;
     padding: 1rem;
 }
